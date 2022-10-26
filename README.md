@@ -4,6 +4,8 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
 <h3 align="center">A passionate automation tester and python developer from Romania</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adrianmacovei&label=Profile%20views&color=0e75b6&style=flat" alt="adrianmacovei" /> </p>
+
 - 🔭 I’m currently working on **Selenium BDD**
 
 - 🌱 I’m currently learning **Selenium, Behave, Postman, Manual Testing**
@@ -14,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/adrian-macovei-4b3a23169/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adrian-macovei-4b3a23169/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/adrian-macovei-4b3a23169" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adrian-macovei-4b3a23169" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/adrian_m105/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/adrian_m105/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/adrianmacovei17/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/adrianmacovei17/" height="30" width="40" /></a>
 </p>
@@ -25,6 +27,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianmacovei&show_icons=true&locale=en&layout=compact" alt="adrianmacovei" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adrianmacovei&show_icons=true&locale=en" alt="adrianmacovei" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adrianmacovei&" alt="adrianmacovei" /></p>
 
 <h1> Prerequisite</h1>
 <p> Need to install folowing packages </p>
