@@ -27,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adrianmacovei&show_icons=true&locale=en" alt="adrianmacovei" /></p>
 
 <h1> Prerequisite</h1>
+<p> Need to install folowing packages </p>
+
