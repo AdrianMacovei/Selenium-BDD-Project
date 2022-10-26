@@ -1,0 +1,6 @@
+.idea/
+venv/
+features_chrome/__pycache__/
+features_chrome/steps/__pycache__/
+geckodriver.log
+.git/
