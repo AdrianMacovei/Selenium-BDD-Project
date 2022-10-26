@@ -30,14 +30,15 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adrianmacovei&" alt="adrianmacovei" /></p>
 
-<h1> Prerequisite</h1>
+<h1> Automation Testing BDD with Selenium</h1>
+<h2> Prerequisite</h2>
 <p> Need to install folowing packages </p>
 <ul>
   <li>Selenium - pip install selenium</li>
   <li>Behave - pip install behave</li>
   <li>Behave Html Formatter - pip install behav-html-formatter</li>
 </ul>
-<h1> Project Description</h1>
+<h2> Project Description</h2>
 <p> In present project I use all information I leanr on the Automation Testing course to create an automation testing project that test the major funtion of
 web application https://the-internet.herokuapp.com/ especially login and logout functionalities, all broject in based on Behavior-Driven Development approach, using Selenium, Behave Python Framework and Gherkin language.
 </p>
