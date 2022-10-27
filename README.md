@@ -32,7 +32,7 @@
 
 <h1> Automation Testing BDD with Selenium</h1>
 <h2> Prerequisite</h2>
-<p> Need to install folowing packages </p>
+<p> Need to install folowing packages: </p>
 <ul>
   <li>Selenium - pip install selenium</li>
   <li>Behave - pip install behave</li>
